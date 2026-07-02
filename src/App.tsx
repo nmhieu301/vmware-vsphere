@@ -5,7 +5,6 @@ import {
   Network, 
   Monitor, 
   ShieldAlert, 
-  Cpu, 
   HardDrive, 
   Layers, 
   CheckCircle2, 
